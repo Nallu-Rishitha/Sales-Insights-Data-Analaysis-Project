@@ -1,6 +1,6 @@
 Leveraged advanced SQL queries in MySQL to conduct in-depth data analysis for AtliQ Hardware, spanning multiple states and three distinct regions.
 
-Integrated PowerBI with MySQL to perform the ELT (Extract, Load, Transform) process, facilitating seamless data transformation and visualization.
+Integrated PowerBI with MySQL to perform the ELT (Extract, Load, Transform) process, using Microsoft PowerQuery facilitating seamless data transformation and visualization.
 
 Employed data modeling techniques, including the creation of a star schema, to optimize data structure and enhance analysis efficiency.
 
@@ -14,4 +14,4 @@ Integrated technical and business analytical skills to generate actionable insig
 
 Managed the project on Git, ensuring version control and collaboration efficiency, showcasing proficiency in project management and version control systems
 
-Skills Used: MySQL · Microsoft Power BI · Data Visualization · Data Modeling · Stakeholder Engagement · Git · ELT · Extract, Transform, Load (ETL) · Data Integration · Data Analysis · DAX · Business Intelligence (BI)
+Skills Used: MySQL · Microsoft Power BI, Microsoft Power Query · Data Visualization · Data Modeling · Stakeholder Engagement · Git · ELT · Extract, Transform, Load (ETL) · Data Integration · Data Analysis · DAX · Business Intelligence (BI) 
